@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springboot3-01-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-02-use-spring-initializr/pom.xml" />
       </list>
     </option>
   </component>

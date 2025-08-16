@@ -13,3 +13,9 @@
 ## 6. SpringBoot打的jar包和普通jar的区别
 
 ![img.png](images/006_diff_springboot_normal_jar.png)
+
+## 7. 什么是脚手架
+
+## 8. 使用SpringBoot官方提供的脚手架
+
+
