@@ -9,3 +9,7 @@
 ## 4. 纳入IoC容器的Bean的位置要求
 
 ## 5. 便捷的部署方式
+
+## 6. SpringBoot打的jar包和普通jar的区别
+
+![img.png](images/006_diff_springboot_normal_jar.png)
