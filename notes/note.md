@@ -18,4 +18,7 @@
 
 ## 8. 使用SpringBoot官方提供的脚手架
 
+## 9. 脚手架生成的SpringBoot项目的结构
+
+![img.png](images/009_springboot_scaffold_file_structure.png)
 
