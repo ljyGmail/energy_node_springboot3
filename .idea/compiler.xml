@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot3-01-first" />
         <module name="springboot3-02-use-spring-initializr" />
+        <module name="sprint3-03-use-idea-plugin" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot3-01-first" options="-parameters" />
       <module name="springboot3-02-use-spring-initializr" options="-parameters" />
+      <module name="sprint3-03-use-idea-plugin" options="-parameters" />
     </option>
   </component>
 </project>

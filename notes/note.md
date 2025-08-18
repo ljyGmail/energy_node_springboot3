@@ -22,3 +22,8 @@
 
 ![img.png](images/009_springboot_scaffold_file_structure.png)
 
+## 10. 阿里提供的SpringBoot脚手架
+
+## 11. 使用IDEA工具的脚手架插件
+
+
