@@ -36,3 +36,11 @@
 
 ## 16. SpringBoot项目做junit单元测试
 
+## 17. 对外部化配置的理解
+
+* SpringBoot支持多种外部化配置方式，包括但不限于:
+    - properties文件
+    - YAML文件
+    - 系统环境变量
+    - 命令行参数
+
