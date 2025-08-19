@@ -32,4 +32,7 @@
 
 ## 14. SpringBoot主入口类是配置类
 
+## 15. SpringBoot的自动配置和组件扫描
+
+## 16. SpringBoot项目做junit单元测试
 
