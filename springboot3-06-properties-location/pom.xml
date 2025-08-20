@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.energynode</groupId>
-    <artifactId>springboot3-03-use-idea-plugin</artifactId>
+    <artifactId>springboot3-06-properties-location</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot3-03-use-idea-plugin</name>
-    <description>springboot3-03-use-idea-plugin</description>
+    <name>springboot3-06-properties-location</name>
+    <description>springboot3-06-properties-location</description>
     <url/>
     <licenses>
         <license/>
@@ -32,15 +32,7 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-
-        <!-- 连接mysql数据库，就需要引入mysql驱动，如果继承了父工程，那么mysql驱动
-        的版本是不需要指定的，直接引入依赖，不用指定版本号，这样大家开发的项目中使用的
-        mysql驱动都是统一的版本。 -->
-        <dependency>
-            <groupId>com.mysql</groupId>
-            <artifactId>mysql-connector-j</artifactId>
+            <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
         <dependency>

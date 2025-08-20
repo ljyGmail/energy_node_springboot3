@@ -44,3 +44,9 @@
     - 系统环境变量
     - 命令行参数
 
+## 18. 配置文件加载优先级
+
+![img.png](images/018_config_load_order.png)
+
+
+
