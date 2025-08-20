@@ -48,5 +48,6 @@
 
 ![img.png](images/018_config_load_order.png)
 
+## 19. 将配置绑定到对象的属性上
 
 
