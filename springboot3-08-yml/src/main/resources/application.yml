@@ -1,6 +1,19 @@
 # 注释
+---
 myapp:
-  username: rose
-  email: rose@126.com
+  # username: 'ro\nse'
+  username: |
+    aaaa
+    bbbb
+    cccc
+    dddd
+  email: "rose@\n126.com"
   age: 60
+  gender: false
+
+---
+myapp2:
+  username: zhangsan
+  email: zhangsan@123.com
+  age: 20
   gender: false
