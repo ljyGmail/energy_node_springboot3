@@ -1,0 +1,9 @@
+spring:
+  config:
+    # 第一种写法:
+    # import: [ classpath:/config/application-mysql.yml, classpath:/config/application-redis.yml ]
+    # 第二种写法:
+    import:
+      - classpath:/config/application-mysql.yml
+      - classpath:/config/application-redis.yml
+
