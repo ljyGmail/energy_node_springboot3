@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot3-09-external-config" />
         <module name="springboot3-08-yml" />
         <module name="springboot3-03-use-idea-plugin" />
         <module name="springboot3-02-use-spring-initializr" />
@@ -27,6 +28,7 @@
       <module name="springboot3-06-properties-location" options="-parameters" />
       <module name="springboot3-07-value-annotation" options="-parameters" />
       <module name="springboot3-08-yml" options="-parameters" />
+      <module name="springboot3-09-external-config" options="-parameters" />
     </option>
   </component>
 </project>

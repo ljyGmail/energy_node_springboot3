@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/springboot3-06-properties-location/pom.xml" />
         <option value="$PROJECT_DIR$/springboot3-07-value-annotation/pom.xml" />
         <option value="$PROJECT_DIR$/springboot3-08-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot3-09-external-config/pom.xml" />
       </list>
     </option>
   </component>
